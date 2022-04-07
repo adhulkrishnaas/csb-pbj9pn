@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/css/main.161a92cb.chunk.css",
-    "main.js": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/main.72a6e88f.chunk.js",
-    "main.js.map": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/main.72a6e88f.chunk.js.map",
+    "main.js": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/main.aa762f3e.chunk.js",
+    "main.js.map": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/main.aa762f3e.chunk.js.map",
     "runtime-main.js": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/runtime-main.a8abd2f5.js",
     "runtime-main.js.map": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/runtime-main.a8abd2f5.js.map",
-    "static/js/2.c4c7c0bd.chunk.js": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/2.c4c7c0bd.chunk.js",
-    "static/js/2.c4c7c0bd.chunk.js.map": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/2.c4c7c0bd.chunk.js.map",
+    "static/js/2.7bfdd7b9.chunk.js": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/2.7bfdd7b9.chunk.js",
+    "static/js/2.7bfdd7b9.chunk.js.map": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/2.7bfdd7b9.chunk.js.map",
     "index.html": "https://adhulkrishnaas.github.io/csb-pbj9pn/index.html",
     "static/css/main.161a92cb.chunk.css.map": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/css/main.161a92cb.chunk.css.map",
-    "static/js/2.c4c7c0bd.chunk.js.LICENSE.txt": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/2.c4c7c0bd.chunk.js.LICENSE.txt"
+    "static/js/2.7bfdd7b9.chunk.js.LICENSE.txt": "https://adhulkrishnaas.github.io/csb-pbj9pn/static/js/2.7bfdd7b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a8abd2f5.js",
-    "static/js/2.c4c7c0bd.chunk.js",
+    "static/js/2.7bfdd7b9.chunk.js",
     "static/css/main.161a92cb.chunk.css",
-    "static/js/main.72a6e88f.chunk.js"
+    "static/js/main.aa762f3e.chunk.js"
   ]
 }
